@@ -1,0 +1,29 @@
+# Expected Goals (xG) Model - Requirements
+# ==========================================
+# Versiones compatibles para evitar errores de numpy dtype
+# (ValueError: numpy.dtype size changed)
+
+# Core Data Science
+numpy>=1.24.0,<2.0.0
+pandas>=2.0.0
+scipy>=1.10.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+xgboost>=2.0.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Football Data (StatsBomb Open Data)
+mplsoccer>=1.2.0
+statsbombpy>=1.11.0
+
+# Jupyter
+jupyter>=1.0.0
+ipykernel>=6.25.0
+
+# Utilities
+tqdm>=4.65.0
+joblib>=1.3.0

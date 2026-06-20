@@ -214,16 +214,6 @@ generate_synthetic_shots(n_shots=1000) -> pd.DataFrame
 - [ ] Inclusión de features de presión defensiva
 - [ ] API REST para predicciones
 
-## 🤝 Contribuciones
-
-Las contribuciones son bienvenidas. Por favor:
-
-1. Fork el repositorio
-2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un Pull Request
-
 ## 📄 Licencia
 
 Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.
@@ -254,10 +244,8 @@ SOFTWARE.
 
 ## 👤 Autor
 
-**César Adrián Delgado Díaz**
-
-- 🌐 Portfolio: [tu-portfolio.com](https://tu-portfolio.com)
-- 💼 LinkedIn: [linkedin.com/in/cesar-delgado-diaz](https://www.linkedin.com/in/cesar-delgado-diaz)
+👤 Autor : **César Adrián Delgado Díaz**
+- 💼 LinkedIn: [linkedin.com/in/cesar-delgado-diaz](linkedin.com/in/cesar-delgado-diaz)
 - 🐙 GitHub: [github.com/cesar530](https://github.com/cesar530)
 
 ---
